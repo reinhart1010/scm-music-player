@@ -2,7 +2,7 @@
 
 <http://scmplayer.net>
 
-##Introduction
+## Introduction
 
 SCM Music Player is a free and open source web music player, that brings a seamless music experience to your website:
 
